@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="853b4ef1-b535-4104-9359-d849302e6f99" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1637179238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="75" />
+          <entry key="py" value="8310" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="Python" value="8310" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fractal" value="4" />
+          <entry key="ising_movie_high" value="1" />
+          <entry key="ising_movie_lowT" value="1" />
+          <entry key="ising_movie_tc" value="1" />
+          <entry key="perc02" value="5" />
+          <entry key="perc02_hex" value="1" />
+          <entry key="perc02_triang" value="1" />
+          <entry key="perc04_hex" value="2" />
+          <entry key="perc055" value="7" />
+          <entry key="perc055_hex" value="2" />
+          <entry key="perc055_triang" value="1" />
+          <entry key="perc06" value="1" />
+          <entry key="perc065" value="4" />
+          <entry key="perc075" value="1" />
+          <entry key="perc075_triang" value="1" />
+          <entry key="perc09" value="3" />
+          <entry key="perc09_hex" value="2" />
+          <entry key="perc09_triang" value="1" />
+          <entry key="perc100" value="1" />
+          <entry key="perc50" value="1" />
+          <entry key="perc_02_hex" value="1" />
+          <entry key="png" value="120" />
+          <entry key="py" value="40" />
+          <entry key="statistics" value="2" />
+          <entry key="stats100" value="7" />
+          <entry key="stats150" value="6" />
+          <entry key="stats150_hex" value="1" />
+          <entry key="stats50" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="120" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Python" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/final/triangle/triang_movie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-94">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assig4/percolation_/perc02">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/triangle/perc09_triang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14721">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/triangle/perc075_triang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14721">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/triangle/perc055_triang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14721">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/triangle/perc02_triang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14721">
+              <caret line="701" selection-start-line="701" selection-end-line="701" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assig3/ising_movie_lowT" />
+        <option value="$PROJECT_DIR$/assig3/ising_movie_high" />
+        <option value="$PROJECT_DIR$/assig3/ising_movie_tc" />
+        <option value="$PROJECT_DIR$/assig3/test.py" />
+        <option value="$PROJECT_DIR$/assig4/plot4.py" />
+        <option value="$PROJECT_DIR$/assig4/statistics" />
+        <option value="$PROJECT_DIR$/assig4/fractal" />
+        <option value="$PROJECT_DIR$/assig4/fractal.py" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/plotter.py" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/stats50" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/stats100" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/stats150" />
+        <option value="$PROJECT_DIR$/assig3/moview_player.py" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/perc06" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/perc09" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/perc075" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/config_plotter.py" />
+        <option value="$PROJECT_DIR$/assig4/fractal_/statistics" />
+        <option value="$PROJECT_DIR$/assig4/fractal_/fractal" />
+        <option value="$PROJECT_DIR$/assig4/fractal_/fractal.py" />
+        <option value="$PROJECT_DIR$/final/percolation.py" />
+        <option value="$PROJECT_DIR$/final/hex/percolation.py" />
+        <option value="$PROJECT_DIR$/final/hex/perc055" />
+        <option value="$PROJECT_DIR$/final/hex/percolation_movie.py" />
+        <option value="$PROJECT_DIR$/final/triangle/stats50" />
+        <option value="$PROJECT_DIR$/final/triangle/stats100" />
+        <option value="$PROJECT_DIR$/final/triangle/stats150" />
+        <option value="$PROJECT_DIR$/final/triangle/perc02" />
+        <option value="$PROJECT_DIR$/final/triangle/perc055" />
+        <option value="$PROJECT_DIR$/final/triangle/perc065" />
+        <option value="$PROJECT_DIR$/final/triangle/perc075" />
+        <option value="$PROJECT_DIR$/final/triangle/perc09" />
+        <option value="$PROJECT_DIR$/final/hex/stats50" />
+        <option value="$PROJECT_DIR$/final/hex/stats100" />
+        <option value="$PROJECT_DIR$/final/hex/hex_perc_plotter.py" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/plotter_percolation.py" />
+        <option value="$PROJECT_DIR$/final/triangle/triang_perc_plotter.py" />
+        <option value="$PROJECT_DIR$/final/hex/stats150_hex" />
+        <option value="$PROJECT_DIR$/final/hex/perc_02_hex" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/percolation_moview_player.py" />
+        <option value="$PROJECT_DIR$/final/hex/perc02_hex" />
+        <option value="$PROJECT_DIR$/final/hex/perc04_hex" />
+        <option value="$PROJECT_DIR$/final/hex/perc055_hex" />
+        <option value="$PROJECT_DIR$/final/hex/perc09_hex" />
+        <option value="$PROJECT_DIR$/final/hex/hex_percolation_movie.py" />
+        <option value="$PROJECT_DIR$/final/triangle/perc02_triang" />
+        <option value="$PROJECT_DIR$/final/triangle/perc055_triang" />
+        <option value="$PROJECT_DIR$/final/triangle/perc075_triang" />
+        <option value="$PROJECT_DIR$/final/triangle/perc09_triang" />
+        <option value="$PROJECT_DIR$/final/triangle/triang_movie.py" />
+        <option value="$PROJECT_DIR$/assig4/percolation_/perc02" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="245" />
+    <option name="width" value="1375" />
+    <option name="height" value="613" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="assig1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="assig3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="assig4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="assig4" type="462c0819:PsiDirectoryNode" />
+              <item name="percolation_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="hex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyPlotter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyPlotter" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="triangle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Simulation methods\PyPlotter\final\hex" />
+      <recent name="C:\Users\User\Desktop\Simulation methods\PyPlotter\assig4\fractal_" />
+      <recent name="C:\Users\User\Desktop\Simulation methods\PyPlotter\assig4\percolation_" />
+      <recent name="C:\Users\User\Desktop\Simulation methods\PyPlotter\assig3" />
+      <recent name="C:\Users\User\Desktop\Simulation methods\PyPlotter\assig1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.triang_movie">
+    <configuration name="hex_perc_plotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPlotter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final/hex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final/hex/hex_perc_plotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hex_percolation_movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPlotter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final/hex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final/hex/hex_percolation_movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="percolation_moview_player" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPlotter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assig4/percolation_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assig4/percolation_/percolation_moview_player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triang_movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPlotter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final/triangle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final/triangle/triang_movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triang_perc_plotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPlotter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final/triangle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final/triangle/triang_perc_plotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.triang_movie" />
+      <item itemvalue="Python.triang_perc_plotter" />
+      <item itemvalue="Python.hex_perc_plotter" />
+      <item itemvalue="Python.hex_percolation_movie" />
+      <item itemvalue="Python.percolation_moview_player" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.triang_movie" />
+        <item itemvalue="Python.percolation_moview_player" />
+        <item itemvalue="Python.hex_percolation_movie" />
+        <item itemvalue="Python.hex_perc_plotter" />
+        <item itemvalue="Python.triang_perc_plotter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853b4ef1-b535-4104-9359-d849302e6f99" name="Default Changelist" comment="" />
+      <created>1545309498101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545309498101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Build Variants" order="0" sideWeight="0.52204835" side_tool="true" weight="0.25528365" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.5510204" visible="true" weight="0.15876517" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="Android Profiler" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.554505" side_tool="true" weight="0.26632124" />
+      <window_info anchor="bottom" id="Logcat" order="3" sideWeight="0.2942158" weight="0.32953367" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.34705228" visible="true" weight="0.2507772" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.19163498" weight="0.3369803" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.66262406" side_tool="true" weight="0.3287234" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.33737597" weight="0.39787233" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.50444937" side_tool="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49777532" weight="0.32953367" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49777532" weight="0.32953367" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="8" weight="0.2730812" />
+      <window_info anchor="right" id="Preview" order="9" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.82019365" side_tool="true" weight="0.17144433" />
+      <window_info anchor="right" id="Find" order="11" sideWeight="0.17980637" side_tool="true" weight="0.20341787" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/final/triangle/triang_movie.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assig3/ising_movie_tc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4242">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig3/magnetization.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig1/verlet_plot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig1/plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="117" lean-forward="true" selection-start-line="15" selection-start-column="117" selection-end-line="15" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig3/plotter3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig3/moview_player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/perc09">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14700">
+          <caret line="700" column="73" selection-start-line="700" selection-start-column="73" selection-end-line="700" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/stats50">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/stats150">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2247">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/stats100">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/stats01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/statistics">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/stats04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/stats05.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="130" column="90" selection-start-line="130" selection-start-column="90" selection-end-line="130" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/stats09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/fractal_/fractal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/stats100_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/stats150_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/stats50_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="853">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/PvsMbiggest.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/PvsPspan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/PvsMbiggest.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/stats50_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/stats100_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/hex_perc_plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/stats150_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/PvsMbiggest.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/PvsPspan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/PvsPspan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/triang_perc_plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/plotter_percolation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/perc02_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="701" lean-forward="true" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/perc055" />
+    <entry file="file://$PROJECT_DIR$/final/hex/hex_percolation_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/perc09_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/perc055_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/hex/perc04_hex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="701" lean-forward="true" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/perc065">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/perc055">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14700">
+          <caret line="700" column="104" selection-start-line="700" selection-start-column="104" selection-end-line="700" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/perc09_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14721">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/perc075_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14721">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/perc055_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14721">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/perc02_triang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14721">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/perc02">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assig4/percolation_/percolation_moview_player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/triangle/triang_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
